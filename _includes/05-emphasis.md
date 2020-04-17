@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+今回は文字の装飾について勉強します。  
+* 文字を**太字**にする。  
+* 文字を*斜体*にする。  
+* **太字**と*斜体*を組み合わせる。
